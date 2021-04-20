@@ -20,6 +20,7 @@ while legacy currencies continue to be devalued through government bailouts and 
 * 2 Pappa Johns Pizzs
 * Netflix monthly
 * Harry Ramsdens Fish and Chips
+* A bag of weed
 * Afternoon Tea at the Ritz London
 * Amazon Prime Membership
 * Nike Sneakers
