@@ -50,3 +50,5 @@ Other Metrics:
 * Capitalisation of various currencies
 * Capitalisation of gold
 * 
+
+When trust dies in government fiat shitcoin
