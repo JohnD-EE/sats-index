@@ -37,6 +37,7 @@ while legacy currencies continue to be devalued through government bailouts and 
 * A Gold Bar
 * A Tesla
 * A Lambo
+* Block Mining Reward
 * Average price of a house in various countries
 * A Private Jet
 * A luxury yacht
