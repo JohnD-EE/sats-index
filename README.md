@@ -1,8 +1,10 @@
 # sats-index
-Satoshis as a Unit of Account
+Satoshis as a Unit of Account. When people no longer have any trust in government issued fiat shitcoins, we may see Bitcoin, and its smallest denomination, Sats (short for Satoshis), becoming a widely accepted unit of account.
 
 ## Purpose
 If Bitcoin continues its adoption path as the soundest form of money on the planet, people will want to know the price of everyday goods and services in Sats, the smallest denomination of a bitcoin. 1 BTC = 100,000,000 Satoshis.
+
+People will start thinking in Sats.
 
 
 while legacy currencies continue to be devalued through government bailouts and stimulous packages, 
@@ -51,4 +53,4 @@ Other Metrics:
 * Capitalisation of gold
 * 
 
-When trust dies in government fiat shitcoin
+
