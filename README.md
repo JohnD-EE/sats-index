@@ -6,6 +6,8 @@ If Bitcoin continues its adoption path as the soundest form of money on the plan
 
 People will start thinking in Sats.
 
+What is the purchasing power of your Sats?
+
 
 while legacy currencies continue to be devalued through government bailouts and stimulous packages, 
 
